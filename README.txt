@@ -34,3 +34,9 @@ NOTES
 - The site uses Google Fonts, which need an internet connection to load. It will fall back to system fonts if unavailable.
 - This is a static portfolio. The contact form is intentionally omitted; email and phone links work without a server.
 - Please review all wording before publishing. Do not claim licenses, certifications, or technical responsibilities you have not actually held.
+
+
+PROFILE PHOTO UPDATE (October 2026)
+- The homepage profile card now uses assets/profile-picture.png.
+- Keep the assets folder alongside index.html, style.css, and script.js when uploading to GitHub Pages.
+- To update the live site, upload/replace the extracted project files in the existing GitHub repository and commit the changes.
